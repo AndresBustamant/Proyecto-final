@@ -1,5 +1,5 @@
 # Proyecto-final
-##Ahorcado
+**Ahorcado
 
 ###planteamiento
 
