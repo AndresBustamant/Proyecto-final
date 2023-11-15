@@ -1,2 +1,8 @@
-## Proyecto-final
-#Ahorcado
+# Proyecto-final
+##Ahorcado
+
+###planteamiento
+
+
+
+
