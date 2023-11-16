@@ -7,7 +7,7 @@ Integrantes del equipo:
 - Andrés Camilo Bustamante Guzmán
 - Jhonatan Esteban Forero Velásquez
 - Jaime Eduardo Ríos Villegas
-- 
+  
 **Ahorcado**
 
 planteamiento previo
