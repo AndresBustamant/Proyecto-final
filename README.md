@@ -1,7 +1,7 @@
 # Proyecto-final
 **Ahorcado**
 
-planteamiento
+planteamiento previo
 
 1. creacion de la base de datos
    para esta parte se crea un archivo de texto con las palabras  que van a estar presentes en el juego, claro esta que se tienen que clasificar con el fin de generar los tres niveles de dificultad
@@ -28,3 +28,26 @@ planteamiento
 ![imagen ](https://github.com/AndresBustamant/Proyecto-final/assets/141858005/99d5b9d0-84b2-4659-8f07-9b79415653a5)
 
 
+Flujograma del programa
+
+```mermaid
+  graph TD;
+    A(INICIO) --> B{Seleccionar el nivel de dificultad}
+    B -->|4 y 5 letras| D[Fácil] 
+    B -->|6 y 7 letras| E[Intermedio] 
+    B -->|8 o más letras| F[Difícil] 
+    D --> G[Generar palabra aleatoria] --> H[Ingreso del usuario]
+    H --> M{Ingresó o terminó la palabra correcta}
+    E --> G 
+    F --> G 
+    H --> I{La letra está en la palabra}
+    I -->|Sí| J[Acertó letra]
+    I -->|No| K[Falló letra]
+    K --> L(Mostrar gráfico ahorcado)
+    J --> L
+    J --> H
+    L --> H
+    M --> |Sí| N[Ganaste] --> P(FIN)
+    M --> |No| O[Continua] 
+    O --> L
+```
