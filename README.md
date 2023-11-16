@@ -1,4 +1,13 @@
 # Proyecto-final
+
+![ideogram (1)](https://github.com/jeriosv/taller_1/assets/142249529/5bd59e64-9074-4caf-beac-929549df998f)
+
+
+Integrantes del equipo:
+- Andrés Camilo Bustamante Guzmán
+- Jhonatan Esteban Forero Velásquez
+- Jaime Eduardo Ríos Villegas
+- 
 **Ahorcado**
 
 planteamiento previo
