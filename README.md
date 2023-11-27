@@ -16,6 +16,8 @@ planteamiento previo
    para empezar se acuede a buscar palabras en español con el fin de trabajarlas y traducirlas a otros idiomas (ingles y frances), en este caso se trabajo a partir de 1102 palabras las cuales despues de tratarlas se modificaron de tal manera que se adaptaran a los otros idiomas implementados.
 
 Ejemplo de las palabras:
+
+
 ![base de datos](https://github.com/AndresBustamant/Proyecto-final/assets/141858005/b9b88b1b-f72b-4587-8d7f-9de5e6706d8f)
 
    
