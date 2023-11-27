@@ -38,7 +38,7 @@ Ejemplo de las palabras:
 
 ![imagen ](https://github.com/AndresBustamant/Proyecto-final/assets/141858005/99d5b9d0-84b2-4659-8f07-9b79415653a5)
 
-6.Requerimientos:
+6.  Requerimientos:
   el programa en si no necesita mucho ya que sus palabras ya estan apropiadas como un string, lo que si es necesario es instalar pyfiglet para poder evidenciar la victoria de una manera mas satisfactoria.
 
   
